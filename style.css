@@ -1,0 +1,24 @@
+.botao{
+    background-color: rgb(149, 131, 247);
+    text-align: center;
+    width: 84px;
+    height: 80px;
+    border-radius: 35px;
+
+}
+table{
+    text-align: center;
+}
+#resultado{
+    text-align: end;
+}
+#base{
+    background-color: rgb(240, 31, 31);
+}
+#texto1{
+    margin-bottom: 0;
+    margin: 0;
+}
+#virgula{
+
+}
